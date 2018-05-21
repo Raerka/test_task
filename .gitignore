@@ -1,0 +1,8 @@
+# Program Folders
+  .idea/
+
+# Dependency directories
+node_modules/
+
+# Logs
+npm-debug.log*

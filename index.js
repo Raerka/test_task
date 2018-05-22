@@ -8,3 +8,4 @@ console.log(compareVersion('2.1', '2.0'));
 
 console.log(compareVersion('2.1', 'df2.0'));
 console.log(compareVersion('2.sd', '2.0'));
+console.log(compareVersion('2.sd', '2.f0'));

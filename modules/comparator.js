@@ -1,7 +1,7 @@
 /**
- * @description compare two version in semver format -1, 0, or 1
- * @param {string} f
- * @param {string} s
+ * @description Compare two strings semver version.
+ * @param {string} f first arg - version in semver format
+ * @param {string} s second arg - version in semver format
  * @return {number} -1, 0, or 1 depending on which argument larger
  */
 function compareVersion(f, s) {
